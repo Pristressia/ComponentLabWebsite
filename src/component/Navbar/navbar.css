@@ -1,0 +1,24 @@
+@import url(./../../globalVar/globalVar.css);
+@import url(./../../globalVar/Setting.css);
+
+.navbarWrapper {
+    position: sticky;
+    z-index: 1024;
+    top: 0;
+    width: 100%;
+
+    border: 2px solid #fff;
+
+    &>nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+
+        border: 2px solid #fff;
+    }
+    
+
+    
+}

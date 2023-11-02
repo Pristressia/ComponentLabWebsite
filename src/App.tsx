@@ -2,14 +2,16 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
-import IconComponentLab from './component/Icon/icon'
+// import IconComponentLab from './component/Icon/icon'
+import NavBar from './component/Navbar/navbar'
 
 function App() {
   // const [count, setCount] = useState(0)
 
   return (
     <>
-      <IconComponentLab />
+      {/* <IconComponentLab /> */}
+      <NavBar />
       <div>
         <h1>This is my first Typescript react app with vite</h1>
         <p>
