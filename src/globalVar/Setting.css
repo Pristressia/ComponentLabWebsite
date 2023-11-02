@@ -1,0 +1,7 @@
+@import url(globalVar.css);
+
+:root {
+    /* --sanwichBg        : var(--grayNeon05); */
+    --bottomLightColor : var(--darkShade05);
+    --bottomDarkColor  : var(--grayNeon05);
+}

@@ -1,0 +1,22 @@
+:root {
+    --paleWhite05   : rgba(255, 255, 255, 0.5);
+    --paleWhite06   : rgba(255, 255, 255, 0.6); 
+    --paleWhite07   : rgba(255, 255, 255, 0.7); 
+    --paleWhite08   : rgba(255, 255, 255, 0.8); 
+    --paleWhite09   : rgba(255, 255, 255, 0.9);
+    --paleWhite     : rgba(255, 255, 255,   1);
+   
+    --grayNeon05    : rgba(200, 210, 255, 0.5);
+    --grayNeon06    : rgba(200, 210, 255, 0.6);
+    --grayNeon07    : rgba(200, 210, 255, 0.7);
+    --grayNeon08    : rgba(200, 210, 255, 0.8);
+    --grayNeon09    : rgba(200, 210, 255, 0.9);
+
+    --darkShade05   : rgba( 10,  20,  60, 0.5);
+    --darkShade06   : rgba( 10,  20,  60, 0.6);
+    --darkShade07   : rgba( 10,  20,  60, 0.7);
+    --darkShade08   : rgba( 10,  20,  60, 0.8);
+    --darkShade09   : rgba( 10,  20,  60, 0.9);
+    --darkShade     : rgba( 10,  20,  60,   1);
+  
+}

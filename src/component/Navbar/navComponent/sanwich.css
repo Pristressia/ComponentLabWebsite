@@ -1,0 +1,35 @@
+@import url(./../../../globalVar/globalVar.css);
+@import url(./../../../globalVar/Setting.css);
+
+:root {
+    --sanwichWidth: 50px;
+    --sanwichPadding: 5px;
+}
+
+.nav-sanwich {
+    background-color: transparent;
+    border: 1px solid var(--paleWhite05);
+    transition: 1s all;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+    &.dark {
+
+        &>span {
+            background-color: var(--bottomDarkColor);
+        }
+    }
+
+    &.light {
+
+        &span {
+            background-color: var(--bottomLightColor);
+        }
+
+    }
+}
